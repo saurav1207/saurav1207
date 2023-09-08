@@ -19,7 +19,7 @@
 
 ### Projects
 
-- **Doc-Xpert**: An online appointment system for doctors, allowing patients to easily book appointments and manage their healthcare. It provides a seamless experience for doctors and patients to connect and interact. 
+- **Doc-Xpert**: An online appointment system for doctors, allowing patients to easily book appointments and manage their healthcare. It provides a seamless experience for doctors and patients to connect and interact. <br>
 [Try it here](https://doctor-patient-appointment-app.onrender.com)
 
 - **eShiksha**: eShiksha is an online learning platform that offers a wide range of courses for learners of all levels. It provides a curated selection of high-quality content, saving you time by bringing together the best resources in one place. [Try it here](https://saurav1207-eshiksha.netlify.app)
