@@ -1,4 +1,4 @@
-# Saurav Kumar
+# Saurav Kumar &nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=saurav1207)
 
 👋 Hello! I'm Saurav, a passionate third-year student pursuing B.Tech in Computer Science and Engineering at Jaipur Engineering College and Research Centre. I have a strong interest in web development and a deep desire to become a software engineer. I'm dedicated to expanding my knowledge and skills in the field of technology and coding.
 
@@ -28,6 +28,9 @@
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=saurav1207&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurav1207&theme=radical&hide_border=false)<br/>
+
+### 💖 Holopin Badges
+[![An image of @saurav1207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurav1207)](https://holopin.io/@saurav1207)
 
 
 ### Let's Connect
