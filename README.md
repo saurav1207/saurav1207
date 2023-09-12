@@ -19,9 +19,9 @@
 
 ### Projects
 
-- **Doc-Xpert**: It is a user-friendly web app designed to simplify the process of scheduling doctor appointments. It offers unique features such as diagnosis assistance and seamless integration with government healthcare programs, ensuring accessible and effective healthcare for all patients. &nbsp; [Try it here](https://doctor-patient-appointment-app.onrender.com)
+- **Doc-Xpert**: - It is a user-friendly web app designed to simplify the process of scheduling doctor appointments. It offers unique features such as diagnosis assistance and seamless integration with government healthcare programs, ensuring accessible and effective healthcare for all patients. &nbsp; [Try it here](https://doctor-patient-appointment-app.onrender.com)
 
-- **E-Shiksha**: It is an educational platform with a user-friendly interface that centralizes curated topic-wise YouTube videos, making learning more efficient by reducing search time of student. It enhances the overall educational experience by providing easy access to high-quality educational content. &nbsp; [Try it here](https://saurav1207-eshiksha.netlify.app)
+- **E-Shiksha**: - It is an educational platform with a user-friendly interface that centralizes curated topic-wise YouTube videos, making learning more efficient by reducing search time of student. It enhances the overall educational experience by providing easy access to high-quality educational content. &nbsp; [Try it here](https://saurav1207-eshiksha.netlify.app)
 
 - **GitHub User Search**: - It is a user-friendly web tool designed to help user to find GitHub profiles by username. It provides users with a comprehensive view of a GitHub user's activity, including their repositories, commits, pull requests, and more, making it easier to explore and connect with other developers on the platform. &nbsp; [Try it here](https://saurav1207-github-user-search.netlify.app/)
 
@@ -37,3 +37,6 @@
 ### Let's Connect
 
 🌐 [LinkedIn](https://www.linkedin.com/in/saurav1207)
+
+
+### <p align="center"> <b>Thank you for visiting my profile! 👋</b> </p>
