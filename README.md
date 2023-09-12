@@ -10,8 +10,8 @@
 - 👯 Looking forward to collaborating on open-source projects to gain practical experience.
 
 ### Skills
-
-- **Languages**: HTML5, CSS3, JavaScript
+- **Programming Skills**: C, C++, DSA
+- **Web Development Skills**: HTML5, CSS3, JavaScript
 - **Frontend**: ReactJs, Bootstrap
 - **Backend**: NodeJs, Express
 - **Databases**: SQL, MongoDB
