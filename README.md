@@ -14,7 +14,7 @@
 - **Languages**: HTML5, CSS3, JavaScript
 - **Frontend**: ReactJs, Bootstrap
 - **Backend**: NodeJs, Express
-- **Databases**: MongoDB
+- **Databases**: SQL, MongoDB
 - **Tools**: VS-Code, Git, Postman
 
 ### Projects
