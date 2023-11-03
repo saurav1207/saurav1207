@@ -32,10 +32,10 @@
 [//]: ![](https://github-readme-stats.vercel.app/api?username=saurav1207&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saurav1207&theme=radical&hide_border=false)<br/>
 
-<!--
+
 ### 💖 Holopin Badges
 [![An image of @saurav1207's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurav1207)](https://holopin.io/@saurav1207)
--->
+
 
 
 ### Let's Connect
