@@ -22,7 +22,7 @@
 
 - **[Doc-Xpert](https://doctor-patient-appointment-app.onrender.com)** :- It is a user-friendly web app designed to simplify the process of scheduling doctor appointments. It offers unique features such as diagnosis assistance and seamless integration with government healthcare programs, ensuring accessible and effective healthcare for all patients.
 
-- **[E-Shiksha](https://saurav1207-eshiksha.netlify.app)** :- It is an educational platform with a user-friendly interface that centralizes curated topic-wise YouTube videos, making learning more efficient by reducing search time of student. It enhances the overall educational experience by providing easy access to high-quality educational content.
+- **[E-Shiksha](https://saurav-eshiksha.netlify.app/)** :- It is an educational platform with a user-friendly interface that centralizes curated topic-wise YouTube videos, making learning more efficient by reducing search time of student. It enhances the overall educational experience by providing easy access to high-quality educational content.
 
 - **[GitHub User Search](https://saurav1207-github-user-search.netlify.app/)** :- It is a user-friendly web tool designed to help user to find GitHub profiles by username. It provides users with a comprehensive view of a GitHub user's activity, including their repositories, commits, pull requests, and more, making it easier to explore and connect with other developers on the platform.
 
